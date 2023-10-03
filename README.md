@@ -1,6 +1,6 @@
 ### Hi there I'm Gustavo Rebelatto Zapella 👋
 
-- 📫 How to reach me: gu.zapella@gmail.com
+- 📫 How to reach me: gustavorzapella@gmail.com
 
 <div align="center">
   <a href="https://github.com/rebelattogustavo">
