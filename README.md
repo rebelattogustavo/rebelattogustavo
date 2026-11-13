@@ -1,3 +1,5 @@
+![Animação de recarga, telemetria e fluxo de dados](assets/profile-loop.gif)
+
 <div align="center">
 
 # Gustavo Rebelatto
