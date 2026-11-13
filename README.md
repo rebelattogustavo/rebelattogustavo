@@ -1,52 +1,45 @@
 <div align="center">
 
-# Hey, I'm Gustavo Rebelatto 👋
+# Gustavo Rebelatto
 
-### Developer who enjoys turning ideas into useful software.
+### Software engineer building systems for connected products and real operations.
 
-I work across web and mobile development, exploring the tools that help me build, learn, and solve real problems. This is where I share what I'm working on and what I'm learning along the way.
+I work on software across **EV charging, telemetry, and data pipelines** — from backend services and integrations to dashboards and cloud infrastructure.
 
-[![Email](https://img.shields.io/badge/Email-Say_hello-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavorzapella@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebelattogustavo)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavorzapella@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rebelattogustavo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rebelattogustavo)
 
 </div>
 
 ---
 
-## What I build with
+## Current focus
 
-<div align="center">
-  <img alt="Java" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  &nbsp;&nbsp;
-  <img alt="Python" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  &nbsp;&nbsp;
-  <img alt="JavaScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;
-  <img alt="TypeScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  &nbsp;&nbsp;
-  <img alt="Android" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  &nbsp;&nbsp;
-  <img alt="Firebase" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  &nbsp;&nbsp;
-  <img alt="React" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
+- ⚡ **EV charging & OCPP** — integrations and services around charging stations.
+- 📡 **Telemetry & data pipelines** — collecting, processing, and presenting device data.
+- ☁️ **Cloud platforms** — deploying and operating services across AWS and Google Cloud.
 
-<p align="center"><sub>Java · Python · JavaScript · TypeScript · Android · Firebase · React</sub></p>
+## Tech I work with
 
-## A little about me
+**Backend**  
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- 💻 I enjoy working across web and mobile projects.
-- 🌱 I keep learning by building and experimenting with new ideas.
-- 🤝 I value clean, practical solutions and sharing what I learn.
-- 📬 Reach me at **[gustavorzapella@gmail.com](mailto:gustavorzapella@gmail.com)**.
+**Data & frontend**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
 
-## GitHub at a glance
+**Cloud & delivery**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rebelattogustavo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Gustavo's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebelattogustavo&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Most used languages">
-</div>
+## A bit more about me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rebelattogustavo/rebelattogustavo/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation">
-</div>
+I like understanding the whole path from a device or service producing data to someone using it to make a decision. Lately, that has meant working with Elixir and Phoenix LiveView, PostgreSQL-backed ETL, OCPP integrations, and cloud operations.
+
+If you’re working on connected devices, charging infrastructure, or data-heavy products, [let’s talk](mailto:gustavorzapella@gmail.com).
