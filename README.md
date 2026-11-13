@@ -4,7 +4,7 @@
 
 # Gustavo Rebelatto
 
-### Software engineer building systems for connected products and real operations.
+### Backend developer building systems for connected products and real operations.
 
 I work on software across **EV charging, telemetry, and data pipelines** — from backend services and integrations to dashboards and cloud infrastructure.
 
